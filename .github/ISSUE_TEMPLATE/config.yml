@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord Community Support
+    url: https://discord.com/invite/Yb2CAxcJcf
+    about: For faster support and community discussion, join our Discord server
+  - name: CommanderSalt FAQ
+    url: https://commandersalt.com/faq
+    about: Check our FAQ for common questions and answers
+  - name: Algorithm Information
+    url: https://commandersalt.com/algorithm
+    about: Learn about how our analysis works
